@@ -12,5 +12,4 @@ Lists
 1. el 1
 1. el 2
 
-
-Bardzo tajny kod: 123ABC
+Nic tu nie ma
